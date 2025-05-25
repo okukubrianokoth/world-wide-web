@@ -4,7 +4,7 @@ This is a simple informational webpage about the World Wide Web, its components,
 
 ## Live Demo
 
-[View the Project](https://okukubrianokoth.github.io/world-/)
+[View the Project](https://okukubrianokoth.github.io/world-wide-web/)
 
 ## Description
 
